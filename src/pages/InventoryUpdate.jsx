@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import "../index.css";
 
 export const InventoryUpdate = () => {
   const [items, setItems] = useState(() => {

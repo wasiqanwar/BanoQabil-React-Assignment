@@ -1,6 +1,6 @@
 import "./App.css";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
-import { InventoryUpdate } from "./pages/InventoryUpdate.jsx";
+import { InventoryUpdate } from "./pages/InventoryUpdate";
 
 function App() {
   return (
