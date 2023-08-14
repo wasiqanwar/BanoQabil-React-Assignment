@@ -8,7 +8,6 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<InventoryUpdate />} />
-          {/* <Route path="/edit" element={} /> */}
         </Routes>
       </Router>
   );
